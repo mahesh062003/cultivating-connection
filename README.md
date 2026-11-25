@@ -55,3 +55,12 @@ it holds user accounts and message history.
 ## Stack
 
 Python · Streamlit · SQLite · bcrypt · Pillow
+
+---
+
+## Use
+
+© 2026 Mahesh Veeraiah R. All rights reserved.
+
+Published for review and assessment. Not licensed for reuse, redistribution or
+modification — please get in touch about any other use.
